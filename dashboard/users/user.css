@@ -1,0 +1,16 @@
+.form-minimize {
+    max-width: 300px;
+    max-height: 300px;
+}
+.form-group{
+    margin-top: 10px;
+}
+.navbar-brand{
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.navbar-nav li.nav-item a.nav-link {
+    color: white;
+    font-size: 18px;
+}
